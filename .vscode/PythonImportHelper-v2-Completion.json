@@ -1,0 +1,2248 @@
+[
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "get_args",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "get_origin",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "get_args",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "model_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "model_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "app.llm",
+        "description": "app.llm",
+        "isExtraImport": true,
+        "detail": "app.llm",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "app.llm",
+        "description": "app.llm",
+        "isExtraImport": true,
+        "detail": "app.llm",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "app.llm",
+        "description": "app.llm",
+        "isExtraImport": true,
+        "detail": "app.llm",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "isExtraImport": true,
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Memory",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCall",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Memory",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCall",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "isExtraImport": true,
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCallAgent",
+        "importPath": "app.agent.toolcall",
+        "description": "app.agent.toolcall",
+        "isExtraImport": true,
+        "detail": "app.agent.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCallAgent",
+        "importPath": "app.agent.toolcall",
+        "description": "app.agent.toolcall",
+        "isExtraImport": true,
+        "detail": "app.agent.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCallAgent",
+        "importPath": "app.agent.toolcall",
+        "description": "app.agent.toolcall",
+        "isExtraImport": true,
+        "detail": "app.agent.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_PROMPT",
+        "importPath": "app.prompt.manus",
+        "description": "app.prompt.manus",
+        "isExtraImport": true,
+        "detail": "app.prompt.manus",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "importPath": "app.prompt.manus",
+        "description": "app.prompt.manus",
+        "isExtraImport": true,
+        "detail": "app.prompt.manus",
+        "documentation": {}
+    },
+    {
+        "label": "Terminate",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCollection",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "PlanningTool",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "Terminate",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCollection",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "Bash",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "StrReplaceEditor",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "Terminate",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCollection",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "CreateChatCompletion",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "Terminate",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCollection",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "PlanningTool",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool",
+        "description": "app.tool",
+        "isExtraImport": true,
+        "detail": "app.tool",
+        "documentation": {}
+    },
+    {
+        "label": "BrowserUseTool",
+        "importPath": "app.tool.browser_use_tool",
+        "description": "app.tool.browser_use_tool",
+        "isExtraImport": true,
+        "detail": "app.tool.browser_use_tool",
+        "documentation": {}
+    },
+    {
+        "label": "FileSaver",
+        "importPath": "app.tool.file_saver",
+        "description": "app.tool.file_saver",
+        "isExtraImport": true,
+        "detail": "app.tool.file_saver",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleSearch",
+        "importPath": "app.tool.google_search",
+        "description": "app.tool.google_search",
+        "isExtraImport": true,
+        "detail": "app.tool.google_search",
+        "documentation": {}
+    },
+    {
+        "label": "PythonExecute",
+        "importPath": "app.tool.python_execute",
+        "description": "app.tool.python_execute",
+        "isExtraImport": true,
+        "detail": "app.tool.python_execute",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_PROMPT",
+        "importPath": "app.prompt.planning",
+        "description": "app.prompt.planning",
+        "isExtraImport": true,
+        "detail": "app.prompt.planning",
+        "documentation": {}
+    },
+    {
+        "label": "PLANNING_SYSTEM_PROMPT",
+        "importPath": "app.prompt.planning",
+        "description": "app.prompt.planning",
+        "isExtraImport": true,
+        "detail": "app.prompt.planning",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAgent",
+        "importPath": "app.agent.base",
+        "description": "app.agent.base",
+        "isExtraImport": true,
+        "detail": "app.agent.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAgent",
+        "importPath": "app.agent.base",
+        "description": "app.agent.base",
+        "isExtraImport": true,
+        "detail": "app.agent.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAgent",
+        "importPath": "app.agent.base",
+        "description": "app.agent.base",
+        "isExtraImport": true,
+        "detail": "app.agent.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAgent",
+        "importPath": "app.agent.base",
+        "description": "app.agent.base",
+        "isExtraImport": true,
+        "detail": "app.agent.base",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_TEMPLATE",
+        "importPath": "app.prompt.swe",
+        "description": "app.prompt.swe",
+        "isExtraImport": true,
+        "detail": "app.prompt.swe",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "importPath": "app.prompt.swe",
+        "description": "app.prompt.swe",
+        "isExtraImport": true,
+        "detail": "app.prompt.swe",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ReActAgent",
+        "importPath": "app.agent.react",
+        "description": "app.agent.react",
+        "isExtraImport": true,
+        "detail": "app.agent.react",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_PROMPT",
+        "importPath": "app.prompt.toolcall",
+        "description": "app.prompt.toolcall",
+        "isExtraImport": true,
+        "detail": "app.prompt.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "importPath": "app.prompt.toolcall",
+        "description": "app.prompt.toolcall",
+        "isExtraImport": true,
+        "detail": "app.prompt.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "BaseFlow",
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "isExtraImport": true,
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "FlowType",
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "isExtraImport": true,
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseFlow",
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "isExtraImport": true,
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "PlanStepStatus",
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "isExtraImport": true,
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "FlowType",
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "isExtraImport": true,
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "PlanningFlow",
+        "importPath": "app.flow.planning",
+        "description": "app.flow.planning",
+        "isExtraImport": true,
+        "detail": "app.flow.planning",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "CLIResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "CLIResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolFailure",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolResult",
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "isExtraImport": true,
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "Browser",
+        "importPath": "browser_use",
+        "description": "browser_use",
+        "isExtraImport": true,
+        "detail": "browser_use",
+        "documentation": {}
+    },
+    {
+        "label": "BrowserConfig",
+        "importPath": "browser_use",
+        "description": "browser_use",
+        "isExtraImport": true,
+        "detail": "browser_use",
+        "documentation": {}
+    },
+    {
+        "label": "BrowserContext",
+        "importPath": "browser_use.browser.context",
+        "description": "browser_use.browser.context",
+        "isExtraImport": true,
+        "detail": "browser_use.browser.context",
+        "documentation": {}
+    },
+    {
+        "label": "DomService",
+        "importPath": "browser_use.dom.service",
+        "description": "browser_use.dom.service",
+        "isExtraImport": true,
+        "detail": "browser_use.dom.service",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationInfo",
+        "importPath": "pydantic_core.core_schema",
+        "description": "pydantic_core.core_schema",
+        "isExtraImport": true,
+        "detail": "pydantic_core.core_schema",
+        "documentation": {}
+    },
+    {
+        "label": "aiofiles",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiofiles",
+        "description": "aiofiles",
+        "detail": "aiofiles",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "googlesearch",
+        "description": "googlesearch",
+        "isExtraImport": true,
+        "detail": "googlesearch",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "app.tool.run",
+        "description": "app.tool.run",
+        "isExtraImport": true,
+        "detail": "app.tool.run",
+        "documentation": {}
+    },
+    {
+        "label": "tomllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tomllib",
+        "description": "tomllib",
+        "detail": "tomllib",
+        "documentation": {}
+    },
+    {
+        "label": "APIError",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncAzureOpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncOpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationError",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIError",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimitError",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_random_exponential",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "LLMSettings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "Manus",
+        "importPath": "app.agent.manus",
+        "description": "app.agent.manus",
+        "isExtraImport": true,
+        "detail": "app.agent.manus",
+        "documentation": {}
+    },
+    {
+        "label": "Manus",
+        "importPath": "app.agent.manus",
+        "description": "app.agent.manus",
+        "isExtraImport": true,
+        "detail": "app.agent.manus",
+        "documentation": {}
+    },
+    {
+        "label": "FlowFactory",
+        "importPath": "app.flow.flow_factory",
+        "description": "app.flow.flow_factory",
+        "isExtraImport": true,
+        "detail": "app.flow.flow_factory",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAgent",
+        "kind": 6,
+        "importPath": "app.agent.base",
+        "description": "app.agent.base",
+        "peekOfCode": "class BaseAgent(BaseModel, ABC):\n    \"\"\"Abstract base class for managing agent state and execution.\n    Provides foundational functionality for state transitions, memory management,\n    and a step-based execution loop. Subclasses must implement the `step` method.\n    \"\"\"\n    # Core attributes\n    name: str = Field(..., description=\"Unique name of the agent\")\n    description: Optional[str] = Field(None, description=\"Optional agent description\")\n    # Prompts\n    system_prompt: Optional[str] = Field(",
+        "detail": "app.agent.base",
+        "documentation": {}
+    },
+    {
+        "label": "Manus",
+        "kind": 6,
+        "importPath": "app.agent.manus",
+        "description": "app.agent.manus",
+        "peekOfCode": "class Manus(ToolCallAgent):\n    \"\"\"\n    A versatile general-purpose agent that uses planning to solve various tasks.\n    This agent extends PlanningAgent with a comprehensive set of tools and capabilities,\n    including Python execution, web browsing, file operations, and information retrieval\n    to handle a wide range of user requests.\n    \"\"\"\n    name: str = \"Manus\"\n    description: str = (\n        \"A versatile agent that can solve various tasks using multiple tools\"",
+        "detail": "app.agent.manus",
+        "documentation": {}
+    },
+    {
+        "label": "PlanningAgent",
+        "kind": 6,
+        "importPath": "app.agent.planning",
+        "description": "app.agent.planning",
+        "peekOfCode": "class PlanningAgent(ToolCallAgent):\n    \"\"\"\n    An agent that creates and manages plans to solve tasks.\n    This agent uses a planning tool to create and manage structured plans,\n    and tracks progress through individual steps until task completion.\n    \"\"\"\n    name: str = \"planning\"\n    description: str = \"An agent that creates and manages plans to solve tasks\"\n    system_prompt: str = PLANNING_SYSTEM_PROMPT\n    next_step_prompt: str = NEXT_STEP_PROMPT",
+        "detail": "app.agent.planning",
+        "documentation": {}
+    },
+    {
+        "label": "ReActAgent",
+        "kind": 6,
+        "importPath": "app.agent.react",
+        "description": "app.agent.react",
+        "peekOfCode": "class ReActAgent(BaseAgent, ABC):\n    name: str\n    description: Optional[str] = None\n    system_prompt: Optional[str] = None\n    next_step_prompt: Optional[str] = None\n    llm: Optional[LLM] = Field(default_factory=LLM)\n    memory: Memory = Field(default_factory=Memory)\n    state: AgentState = AgentState.IDLE\n    max_steps: int = 10\n    current_step: int = 0",
+        "detail": "app.agent.react",
+        "documentation": {}
+    },
+    {
+        "label": "SWEAgent",
+        "kind": 6,
+        "importPath": "app.agent.swe",
+        "description": "app.agent.swe",
+        "peekOfCode": "class SWEAgent(ToolCallAgent):\n    \"\"\"An agent that implements the SWEAgent paradigm for executing code and natural conversations.\"\"\"\n    name: str = \"swe\"\n    description: str = \"an autonomous AI programmer that interacts directly with the computer to solve tasks.\"\n    system_prompt: str = SYSTEM_PROMPT\n    next_step_prompt: str = NEXT_STEP_TEMPLATE\n    available_tools: ToolCollection = ToolCollection(\n        Bash(), StrReplaceEditor(), Terminate()\n    )\n    special_tool_names: List[str] = Field(default_factory=lambda: [Terminate().name])",
+        "detail": "app.agent.swe",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCallAgent",
+        "kind": 6,
+        "importPath": "app.agent.toolcall",
+        "description": "app.agent.toolcall",
+        "peekOfCode": "class ToolCallAgent(ReActAgent):\n    \"\"\"Base agent class for handling tool/function calls with enhanced abstraction\"\"\"\n    name: str = \"toolcall\"\n    description: str = \"an agent that can execute tool calls.\"\n    system_prompt: str = SYSTEM_PROMPT\n    next_step_prompt: str = NEXT_STEP_PROMPT\n    available_tools: ToolCollection = ToolCollection(\n        CreateChatCompletion(), Terminate()\n    )\n    tool_choices: Literal[\"none\", \"auto\", \"required\"] = \"auto\"",
+        "detail": "app.agent.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "TOOL_CALL_REQUIRED",
+        "kind": 5,
+        "importPath": "app.agent.toolcall",
+        "description": "app.agent.toolcall",
+        "peekOfCode": "TOOL_CALL_REQUIRED = \"Tool calls required but none provided\"\nclass ToolCallAgent(ReActAgent):\n    \"\"\"Base agent class for handling tool/function calls with enhanced abstraction\"\"\"\n    name: str = \"toolcall\"\n    description: str = \"an agent that can execute tool calls.\"\n    system_prompt: str = SYSTEM_PROMPT\n    next_step_prompt: str = NEXT_STEP_PROMPT\n    available_tools: ToolCollection = ToolCollection(\n        CreateChatCompletion(), Terminate()\n    )",
+        "detail": "app.agent.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "FlowType",
+        "kind": 6,
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "peekOfCode": "class FlowType(str, Enum):\n    PLANNING = \"planning\"\nclass BaseFlow(BaseModel, ABC):\n    \"\"\"Base class for execution flows supporting multiple agents\"\"\"\n    agents: Dict[str, BaseAgent]\n    tools: Optional[List] = None\n    primary_agent_key: Optional[str] = None\n    class Config:\n        arbitrary_types_allowed = True\n    def __init__(",
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseFlow",
+        "kind": 6,
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "peekOfCode": "class BaseFlow(BaseModel, ABC):\n    \"\"\"Base class for execution flows supporting multiple agents\"\"\"\n    agents: Dict[str, BaseAgent]\n    tools: Optional[List] = None\n    primary_agent_key: Optional[str] = None\n    class Config:\n        arbitrary_types_allowed = True\n    def __init__(\n        self, agents: Union[BaseAgent, List[BaseAgent], Dict[str, BaseAgent]], **data\n    ):",
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "PlanStepStatus",
+        "kind": 6,
+        "importPath": "app.flow.base",
+        "description": "app.flow.base",
+        "peekOfCode": "class PlanStepStatus(str, Enum):\n    \"\"\"Enum class defining possible statuses of a plan step\"\"\"\n    NOT_STARTED = \"not_started\"\n    IN_PROGRESS = \"in_progress\"\n    COMPLETED = \"completed\"\n    BLOCKED = \"blocked\"\n    @classmethod\n    def get_all_statuses(cls) -> list[str]:\n        \"\"\"Return a list of all possible step status values\"\"\"\n        return [status.value for status in cls]",
+        "detail": "app.flow.base",
+        "documentation": {}
+    },
+    {
+        "label": "FlowFactory",
+        "kind": 6,
+        "importPath": "app.flow.flow_factory",
+        "description": "app.flow.flow_factory",
+        "peekOfCode": "class FlowFactory:\n    \"\"\"Factory for creating different types of flows with support for multiple agents\"\"\"\n    @staticmethod\n    def create_flow(\n        flow_type: FlowType,\n        agents: Union[BaseAgent, List[BaseAgent], Dict[str, BaseAgent]],\n        **kwargs,\n    ) -> BaseFlow:\n        flows = {\n            FlowType.PLANNING: PlanningFlow,",
+        "detail": "app.flow.flow_factory",
+        "documentation": {}
+    },
+    {
+        "label": "PlanningFlow",
+        "kind": 6,
+        "importPath": "app.flow.planning",
+        "description": "app.flow.planning",
+        "peekOfCode": "class PlanningFlow(BaseFlow):\n    \"\"\"A flow that manages planning and execution of tasks using agents.\"\"\"\n    llm: LLM = Field(default_factory=lambda: LLM())\n    planning_tool: PlanningTool = Field(default_factory=PlanningTool)\n    executor_keys: List[str] = Field(default_factory=list)\n    active_plan_id: str = Field(default_factory=lambda: f\"plan_{int(time.time())}\")\n    current_step_index: Optional[int] = None\n    def __init__(\n        self, agents: Union[BaseAgent, List[BaseAgent], Dict[str, BaseAgent]], **data\n    ):",
+        "detail": "app.flow.planning",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.manus",
+        "description": "app.prompt.manus",
+        "peekOfCode": "SYSTEM_PROMPT = \"You are OpenManus, an all-capable AI assistant, aimed at solving any task presented by the user. You have various tools at your disposal that you can call upon to efficiently complete complex requests. Whether it's programming, information retrieval, file processing, or web browsing, you can handle it all.\"\nNEXT_STEP_PROMPT = \"\"\"You can interact with the computer using PythonExecute, save important content and information files through FileSaver, open browsers with BrowserUseTool, and retrieve information using GoogleSearch.\nPythonExecute: Execute Python code to interact with the computer system, data processing, automation tasks, etc.\nFileSaver: Save files locally, such as txt, py, html, etc.\nBrowserUseTool: Open, browse, and use web browsers.If you open a local HTML file, you must provide the absolute path to the file.\nGoogleSearch: Perform web information retrieval\nTerminate: End the current interaction when the task is complete or when you need additional information from the user. Use this tool to signal that you've finished addressing the user's request or need clarification before proceeding further.\nBased on user needs, proactively select the most appropriate tool or combination of tools. For complex tasks, you can break down the problem and use different tools step by step to solve it. After using each tool, clearly explain the execution results and suggest the next steps.\nAlways maintain a helpful, informative tone throughout the interaction. If you encounter any limitations or need more details, clearly communicate this to the user before terminating.\n\"\"\"",
+        "detail": "app.prompt.manus",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.manus",
+        "description": "app.prompt.manus",
+        "peekOfCode": "NEXT_STEP_PROMPT = \"\"\"You can interact with the computer using PythonExecute, save important content and information files through FileSaver, open browsers with BrowserUseTool, and retrieve information using GoogleSearch.\nPythonExecute: Execute Python code to interact with the computer system, data processing, automation tasks, etc.\nFileSaver: Save files locally, such as txt, py, html, etc.\nBrowserUseTool: Open, browse, and use web browsers.If you open a local HTML file, you must provide the absolute path to the file.\nGoogleSearch: Perform web information retrieval\nTerminate: End the current interaction when the task is complete or when you need additional information from the user. Use this tool to signal that you've finished addressing the user's request or need clarification before proceeding further.\nBased on user needs, proactively select the most appropriate tool or combination of tools. For complex tasks, you can break down the problem and use different tools step by step to solve it. After using each tool, clearly explain the execution results and suggest the next steps.\nAlways maintain a helpful, informative tone throughout the interaction. If you encounter any limitations or need more details, clearly communicate this to the user before terminating.\n\"\"\"",
+        "detail": "app.prompt.manus",
+        "documentation": {}
+    },
+    {
+        "label": "PLANNING_SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.planning",
+        "description": "app.prompt.planning",
+        "peekOfCode": "PLANNING_SYSTEM_PROMPT = \"\"\"\nYou are an expert Planning Agent tasked with solving problems efficiently through structured plans.\nYour job is:\n1. Analyze requests to understand the task scope\n2. Create a clear, actionable plan that makes meaningful progress with the `planning` tool\n3. Execute steps using available tools as needed\n4. Track progress and adapt plans when necessary\n5. Use `finish` to conclude immediately when the task is complete\nAvailable tools will vary by task but may include:\n- `planning`: Create, update, and track plans (commands: create, update, mark_step, etc.)",
+        "detail": "app.prompt.planning",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.planning",
+        "description": "app.prompt.planning",
+        "peekOfCode": "NEXT_STEP_PROMPT = \"\"\"\nBased on the current state, what's your next action?\nChoose the most efficient path forward:\n1. Is the plan sufficient, or does it need refinement?\n2. Can you execute the next step immediately?\n3. Is the task complete? If so, use `finish` right away.\nBe concise in your reasoning, then select the appropriate tool or action.\n\"\"\"",
+        "detail": "app.prompt.planning",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.swe",
+        "description": "app.prompt.swe",
+        "peekOfCode": "SYSTEM_PROMPT = \"\"\"SETTING: You are an autonomous programmer, and you're working directly in the command line with a special interface.\nThe special interface consists of a file editor that shows you {{WINDOW}} lines of a file at a time.\nIn addition to typical bash commands, you can also use specific commands to help you navigate and edit files.\nTo call a command, you need to invoke it with a function call/tool call.\nPlease note that THE EDIT COMMAND REQUIRES PROPER INDENTATION.\nIf you'd like to add the line '        print(x)' you must fully write that out, with all those spaces before the code! Indentation is important and code that is not indented correctly will fail and require fixing before it can be run.\nRESPONSE FORMAT:\nYour shell prompt is formatted as follows:\n(Open file: <path>)\n(Current directory: <cwd>)",
+        "detail": "app.prompt.swe",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_TEMPLATE",
+        "kind": 5,
+        "importPath": "app.prompt.swe",
+        "description": "app.prompt.swe",
+        "peekOfCode": "NEXT_STEP_TEMPLATE = \"\"\"{{observation}}\n(Open file: {{open_file}})\n(Current directory: {{working_dir}})\nbash-$\n\"\"\"",
+        "detail": "app.prompt.swe",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.toolcall",
+        "description": "app.prompt.toolcall",
+        "peekOfCode": "SYSTEM_PROMPT = \"You are an agent that can execute tool calls\"\nNEXT_STEP_PROMPT = (\n    \"If you want to stop interaction, use `terminate` tool/function call.\"\n)",
+        "detail": "app.prompt.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "NEXT_STEP_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompt.toolcall",
+        "description": "app.prompt.toolcall",
+        "peekOfCode": "NEXT_STEP_PROMPT = (\n    \"If you want to stop interaction, use `terminate` tool/function call.\"\n)",
+        "detail": "app.prompt.toolcall",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "kind": 6,
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "peekOfCode": "class BaseTool(ABC, BaseModel):\n    name: str\n    description: str\n    parameters: Optional[dict] = None\n    class Config:\n        arbitrary_types_allowed = True\n    async def __call__(self, **kwargs) -> Any:\n        \"\"\"Execute the tool with given parameters.\"\"\"\n        return await self.execute(**kwargs)\n    @abstractmethod",
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolResult",
+        "kind": 6,
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "peekOfCode": "class ToolResult(BaseModel):\n    \"\"\"Represents the result of a tool execution.\"\"\"\n    output: Any = Field(default=None)\n    error: Optional[str] = Field(default=None)\n    system: Optional[str] = Field(default=None)\n    class Config:\n        arbitrary_types_allowed = True\n    def __bool__(self):\n        return any(getattr(self, field) for field in self.__fields__)\n    def __add__(self, other: \"ToolResult\"):",
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "CLIResult",
+        "kind": 6,
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "peekOfCode": "class CLIResult(ToolResult):\n    \"\"\"A ToolResult that can be rendered as a CLI output.\"\"\"\nclass ToolFailure(ToolResult):\n    \"\"\"A ToolResult that represents a failure.\"\"\"\nclass AgentAwareTool:\n    agent: Optional = None",
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "ToolFailure",
+        "kind": 6,
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "peekOfCode": "class ToolFailure(ToolResult):\n    \"\"\"A ToolResult that represents a failure.\"\"\"\nclass AgentAwareTool:\n    agent: Optional = None",
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "AgentAwareTool",
+        "kind": 6,
+        "importPath": "app.tool.base",
+        "description": "app.tool.base",
+        "peekOfCode": "class AgentAwareTool:\n    agent: Optional = None",
+        "detail": "app.tool.base",
+        "documentation": {}
+    },
+    {
+        "label": "_BashSession",
+        "kind": 6,
+        "importPath": "app.tool.bash",
+        "description": "app.tool.bash",
+        "peekOfCode": "class _BashSession:\n    \"\"\"A session of a bash shell.\"\"\"\n    _started: bool\n    _process: asyncio.subprocess.Process\n    command: str = \"/bin/bash\"\n    _output_delay: float = 0.2  # seconds\n    _timeout: float = 120.0  # seconds\n    _sentinel: str = \"<<exit>>\"\n    def __init__(self):\n        self._started = False",
+        "detail": "app.tool.bash",
+        "documentation": {}
+    },
+    {
+        "label": "Bash",
+        "kind": 6,
+        "importPath": "app.tool.bash",
+        "description": "app.tool.bash",
+        "peekOfCode": "class Bash(BaseTool):\n    \"\"\"A tool for executing bash commands\"\"\"\n    name: str = \"bash\"\n    description: str = _BASH_DESCRIPTION\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"command\": {\n                \"type\": \"string\",\n                \"description\": \"The bash command to execute. Can be empty to view additional logs when previous exit code is `-1`. Can be `ctrl+c` to interrupt the currently running process.\",",
+        "detail": "app.tool.bash",
+        "documentation": {}
+    },
+    {
+        "label": "_BASH_DESCRIPTION",
+        "kind": 5,
+        "importPath": "app.tool.bash",
+        "description": "app.tool.bash",
+        "peekOfCode": "_BASH_DESCRIPTION = \"\"\"Execute a bash command in the terminal.\n* Long running commands: For commands that may run indefinitely, it should be run in the background and the output should be redirected to a file, e.g. command = `python3 app.py > server.log 2>&1 &`.\n* Interactive: If a bash command returns exit code `-1`, this means the process is not yet finished. The assistant must then send a second call to terminal with an empty `command` (which will retrieve any additional logs), or it can send additional text (set `command` to the text) to STDIN of the running process, or it can send command=`ctrl+c` to interrupt the process.\n* Timeout: If a command execution result says \"Command timed out. Sending SIGINT to the process\", the assistant should retry running the command in the background.\n\"\"\"\nclass _BashSession:\n    \"\"\"A session of a bash shell.\"\"\"\n    _started: bool\n    _process: asyncio.subprocess.Process\n    command: str = \"/bin/bash\"",
+        "detail": "app.tool.bash",
+        "documentation": {}
+    },
+    {
+        "label": "BrowserUseTool",
+        "kind": 6,
+        "importPath": "app.tool.browser_use_tool",
+        "description": "app.tool.browser_use_tool",
+        "peekOfCode": "class BrowserUseTool(BaseTool):\n    name: str = \"browser_use\"\n    description: str = _BROWSER_DESCRIPTION\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"action\": {\n                \"type\": \"string\",\n                \"enum\": [\n                    \"navigate\",",
+        "detail": "app.tool.browser_use_tool",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LENGTH",
+        "kind": 5,
+        "importPath": "app.tool.browser_use_tool",
+        "description": "app.tool.browser_use_tool",
+        "peekOfCode": "MAX_LENGTH = 2000\n_BROWSER_DESCRIPTION = \"\"\"\nInteract with a web browser to perform various actions such as navigation, element interaction,\ncontent extraction, and tab management. Supported actions include:\n- 'navigate': Go to a specific URL\n- 'click': Click an element by index\n- 'input_text': Input text into an element\n- 'screenshot': Capture a screenshot\n- 'get_html': Get page HTML content\n- 'get_text': Get text content of the page",
+        "detail": "app.tool.browser_use_tool",
+        "documentation": {}
+    },
+    {
+        "label": "_BROWSER_DESCRIPTION",
+        "kind": 5,
+        "importPath": "app.tool.browser_use_tool",
+        "description": "app.tool.browser_use_tool",
+        "peekOfCode": "_BROWSER_DESCRIPTION = \"\"\"\nInteract with a web browser to perform various actions such as navigation, element interaction,\ncontent extraction, and tab management. Supported actions include:\n- 'navigate': Go to a specific URL\n- 'click': Click an element by index\n- 'input_text': Input text into an element\n- 'screenshot': Capture a screenshot\n- 'get_html': Get page HTML content\n- 'get_text': Get text content of the page\n- 'read_links': Get all links on the page",
+        "detail": "app.tool.browser_use_tool",
+        "documentation": {}
+    },
+    {
+        "label": "CreateChatCompletion",
+        "kind": 6,
+        "importPath": "app.tool.create_chat_completion",
+        "description": "app.tool.create_chat_completion",
+        "peekOfCode": "class CreateChatCompletion(BaseTool):\n    name: str = \"create_chat_completion\"\n    description: str = (\n        \"Creates a structured completion with specified output formatting.\"\n    )\n    # Type mapping for JSON schema\n    type_mapping: dict = {\n        str: \"string\",\n        int: \"integer\",\n        float: \"number\",",
+        "detail": "app.tool.create_chat_completion",
+        "documentation": {}
+    },
+    {
+        "label": "FileSaver",
+        "kind": 6,
+        "importPath": "app.tool.file_saver",
+        "description": "app.tool.file_saver",
+        "peekOfCode": "class FileSaver(BaseTool):\n    name: str = \"file_saver\"\n    description: str = \"\"\"Save content to a local file at a specified path.\nUse this tool when you need to save text, code, or generated content to a file on the local filesystem.\nThe tool accepts content and a file path, and saves the content to that location.\n\"\"\"\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"content\": {",
+        "detail": "app.tool.file_saver",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleSearch",
+        "kind": 6,
+        "importPath": "app.tool.google_search",
+        "description": "app.tool.google_search",
+        "peekOfCode": "class GoogleSearch(BaseTool):\n    name: str = \"google_search\"\n    description: str = \"\"\"Perform a Google search and return a list of relevant links.\nUse this tool when you need to find information on the web, get up-to-date data, or research specific topics.\nThe tool returns a list of URLs that match the search query.\n\"\"\"\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"query\": {",
+        "detail": "app.tool.google_search",
+        "documentation": {}
+    },
+    {
+        "label": "PlanningTool",
+        "kind": 6,
+        "importPath": "app.tool.planning",
+        "description": "app.tool.planning",
+        "peekOfCode": "class PlanningTool(BaseTool):\n    \"\"\"\n    A planning tool that allows the agent to create and manage plans for solving complex tasks.\n    The tool provides functionality for creating plans, updating plan steps, and tracking progress.\n    \"\"\"\n    name: str = \"planning\"\n    description: str = _PLANNING_TOOL_DESCRIPTION\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {",
+        "detail": "app.tool.planning",
+        "documentation": {}
+    },
+    {
+        "label": "_PLANNING_TOOL_DESCRIPTION",
+        "kind": 5,
+        "importPath": "app.tool.planning",
+        "description": "app.tool.planning",
+        "peekOfCode": "_PLANNING_TOOL_DESCRIPTION = \"\"\"\nA planning tool that allows the agent to create and manage plans for solving complex tasks.\nThe tool provides functionality for creating plans, updating plan steps, and tracking progress.\n\"\"\"\nclass PlanningTool(BaseTool):\n    \"\"\"\n    A planning tool that allows the agent to create and manage plans for solving complex tasks.\n    The tool provides functionality for creating plans, updating plan steps, and tracking progress.\n    \"\"\"\n    name: str = \"planning\"",
+        "detail": "app.tool.planning",
+        "documentation": {}
+    },
+    {
+        "label": "PythonExecute",
+        "kind": 6,
+        "importPath": "app.tool.python_execute",
+        "description": "app.tool.python_execute",
+        "peekOfCode": "class PythonExecute(BaseTool):\n    \"\"\"A tool for executing Python code with timeout and safety restrictions.\"\"\"\n    name: str = \"python_execute\"\n    description: str = \"Executes Python code string. Note: Only print outputs are visible, function return values are not captured. Use print statements to see results.\"\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"code\": {\n                \"type\": \"string\",\n                \"description\": \"The Python code to execute.\",",
+        "detail": "app.tool.python_execute",
+        "documentation": {}
+    },
+    {
+        "label": "maybe_truncate",
+        "kind": 2,
+        "importPath": "app.tool.run",
+        "description": "app.tool.run",
+        "peekOfCode": "def maybe_truncate(content: str, truncate_after: int | None = MAX_RESPONSE_LEN):\n    \"\"\"Truncate content and append a notice if content exceeds the specified length.\"\"\"\n    return (\n        content\n        if not truncate_after or len(content) <= truncate_after\n        else content[:truncate_after] + TRUNCATED_MESSAGE\n    )\nasync def run(\n    cmd: str,\n    timeout: float | None = 120.0,  # seconds",
+        "detail": "app.tool.run",
+        "documentation": {}
+    },
+    {
+        "label": "StrReplaceEditor",
+        "kind": 6,
+        "importPath": "app.tool.str_replace_editor",
+        "description": "app.tool.str_replace_editor",
+        "peekOfCode": "class StrReplaceEditor(BaseTool):\n    \"\"\"A tool for executing bash commands\"\"\"\n    name: str = \"str_replace_editor\"\n    description: str = _STR_REPLACE_EDITOR_DESCRIPTION\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"command\": {\n                \"description\": \"The commands to run. Allowed options are: `view`, `create`, `str_replace`, `insert`, `undo_edit`.\",\n                \"enum\": [\"view\", \"create\", \"str_replace\", \"insert\", \"undo_edit\"],",
+        "detail": "app.tool.str_replace_editor",
+        "documentation": {}
+    },
+    {
+        "label": "maybe_truncate",
+        "kind": 2,
+        "importPath": "app.tool.str_replace_editor",
+        "description": "app.tool.str_replace_editor",
+        "peekOfCode": "def maybe_truncate(content: str, truncate_after: int | None = MAX_RESPONSE_LEN):\n    \"\"\"Truncate content and append a notice if content exceeds the specified length.\"\"\"\n    return (\n        content\n        if not truncate_after or len(content) <= truncate_after\n        else content[:truncate_after] + TRUNCATED_MESSAGE\n    )\nclass StrReplaceEditor(BaseTool):\n    \"\"\"A tool for executing bash commands\"\"\"\n    name: str = \"str_replace_editor\"",
+        "detail": "app.tool.str_replace_editor",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 5,
+        "importPath": "app.tool.str_replace_editor",
+        "description": "app.tool.str_replace_editor",
+        "peekOfCode": "Command = Literal[\n    \"view\",\n    \"create\",\n    \"str_replace\",\n    \"insert\",\n    \"undo_edit\",\n]\nSNIPPET_LINES: int = 4\nMAX_RESPONSE_LEN: int = 16000\nTRUNCATED_MESSAGE: str = \"<response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>\"",
+        "detail": "app.tool.str_replace_editor",
+        "documentation": {}
+    },
+    {
+        "label": "_STR_REPLACE_EDITOR_DESCRIPTION",
+        "kind": 5,
+        "importPath": "app.tool.str_replace_editor",
+        "description": "app.tool.str_replace_editor",
+        "peekOfCode": "_STR_REPLACE_EDITOR_DESCRIPTION = \"\"\"Custom editing tool for viewing, creating and editing files\n* State is persistent across command calls and discussions with the user\n* If `path` is a file, `view` displays the result of applying `cat -n`. If `path` is a directory, `view` lists non-hidden files and directories up to 2 levels deep\n* The `create` command cannot be used if the specified `path` already exists as a file\n* If a `command` generates a long output, it will be truncated and marked with `<response clipped>`\n* The `undo_edit` command will revert the last edit made to the file at `path`\nNotes for using the `str_replace` command:\n* The `old_str` parameter should match EXACTLY one or more consecutive lines from the original file. Be mindful of whitespaces!\n* If the `old_str` parameter is not unique in the file, the replacement will not be performed. Make sure to include enough context in `old_str` to make it unique\n* The `new_str` parameter should contain the edited lines that should replace the `old_str`",
+        "detail": "app.tool.str_replace_editor",
+        "documentation": {}
+    },
+    {
+        "label": "Terminate",
+        "kind": 6,
+        "importPath": "app.tool.terminate",
+        "description": "app.tool.terminate",
+        "peekOfCode": "class Terminate(BaseTool):\n    name: str = \"terminate\"\n    description: str = _TERMINATE_DESCRIPTION\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"status\": {\n                \"type\": \"string\",\n                \"description\": \"The finish status of the interaction.\",\n                \"enum\": [\"success\", \"failure\"],",
+        "detail": "app.tool.terminate",
+        "documentation": {}
+    },
+    {
+        "label": "_TERMINATE_DESCRIPTION",
+        "kind": 5,
+        "importPath": "app.tool.terminate",
+        "description": "app.tool.terminate",
+        "peekOfCode": "_TERMINATE_DESCRIPTION = \"\"\"Terminate the interaction when the request is met OR if the assistant cannot proceed further with the task.\"\"\"\nclass Terminate(BaseTool):\n    name: str = \"terminate\"\n    description: str = _TERMINATE_DESCRIPTION\n    parameters: dict = {\n        \"type\": \"object\",\n        \"properties\": {\n            \"status\": {\n                \"type\": \"string\",\n                \"description\": \"The finish status of the interaction.\",",
+        "detail": "app.tool.terminate",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCollection",
+        "kind": 6,
+        "importPath": "app.tool.tool_collection",
+        "description": "app.tool.tool_collection",
+        "peekOfCode": "class ToolCollection:\n    \"\"\"A collection of defined tools.\"\"\"\n    def __init__(self, *tools: BaseTool):\n        self.tools = tools\n        self.tool_map = {tool.name: tool for tool in tools}\n    def __iter__(self):\n        return iter(self.tools)\n    def to_params(self) -> List[Dict[str, Any]]:\n        return [tool.to_param() for tool in self.tools]\n    async def execute(",
+        "detail": "app.tool.tool_collection",
+        "documentation": {}
+    },
+    {
+        "label": "LLMSettings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class LLMSettings(BaseModel):\n    model: str = Field(..., description=\"Model name\")\n    base_url: str = Field(..., description=\"API base URL\")\n    api_key: str = Field(..., description=\"API key\")\n    max_tokens: int = Field(4096, description=\"Maximum number of tokens per request\")\n    temperature: float = Field(1.0, description=\"Sampling temperature\")\n    api_type: str = Field(..., description=\"AzureOpenai or Openai\")\n    api_version: str = Field(..., description=\"Azure Openai version if AzureOpenai\")\nclass AppConfig(BaseModel):\n    llm: Dict[str, LLMSettings]",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class AppConfig(BaseModel):\n    llm: Dict[str, LLMSettings]\nclass Config:\n    _instance = None\n    _lock = threading.Lock()\n    _initialized = False\n    def __new__(cls):\n        if cls._instance is None:\n            with cls._lock:\n                if cls._instance is None:",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class Config:\n    _instance = None\n    _lock = threading.Lock()\n    _initialized = False\n    def __new__(cls):\n        if cls._instance is None:\n            with cls._lock:\n                if cls._instance is None:\n                    cls._instance = super().__new__(cls)\n        return cls._instance",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_project_root",
+        "kind": 2,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "def get_project_root() -> Path:\n    \"\"\"Get the project root directory\"\"\"\n    return Path(__file__).resolve().parent.parent\nPROJECT_ROOT = get_project_root()\nWORKSPACE_ROOT = PROJECT_ROOT / \"workspace\"\nclass LLMSettings(BaseModel):\n    model: str = Field(..., description=\"Model name\")\n    base_url: str = Field(..., description=\"API base URL\")\n    api_key: str = Field(..., description=\"API key\")\n    max_tokens: int = Field(4096, description=\"Maximum number of tokens per request\")",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "PROJECT_ROOT = get_project_root()\nWORKSPACE_ROOT = PROJECT_ROOT / \"workspace\"\nclass LLMSettings(BaseModel):\n    model: str = Field(..., description=\"Model name\")\n    base_url: str = Field(..., description=\"API base URL\")\n    api_key: str = Field(..., description=\"API key\")\n    max_tokens: int = Field(4096, description=\"Maximum number of tokens per request\")\n    temperature: float = Field(1.0, description=\"Sampling temperature\")\n    api_type: str = Field(..., description=\"AzureOpenai or Openai\")\n    api_version: str = Field(..., description=\"Azure Openai version if AzureOpenai\")",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "WORKSPACE_ROOT",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "WORKSPACE_ROOT = PROJECT_ROOT / \"workspace\"\nclass LLMSettings(BaseModel):\n    model: str = Field(..., description=\"Model name\")\n    base_url: str = Field(..., description=\"API base URL\")\n    api_key: str = Field(..., description=\"API key\")\n    max_tokens: int = Field(4096, description=\"Maximum number of tokens per request\")\n    temperature: float = Field(1.0, description=\"Sampling temperature\")\n    api_type: str = Field(..., description=\"AzureOpenai or Openai\")\n    api_version: str = Field(..., description=\"Azure Openai version if AzureOpenai\")\nclass AppConfig(BaseModel):",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "config = Config()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class ToolError(Exception):\n    \"\"\"Raised when a tool encounters an error.\"\"\"\n    def __init__(self, message):\n        self.message = message",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "kind": 6,
+        "importPath": "app.llm",
+        "description": "app.llm",
+        "peekOfCode": "class LLM:\n    _instances: Dict[str, \"LLM\"] = {}\n    def __new__(\n        cls, config_name: str = \"default\", llm_config: Optional[LLMSettings] = None\n    ):\n        if config_name not in cls._instances:\n            instance = super().__new__(cls)\n            instance.__init__(config_name, llm_config)\n            cls._instances[config_name] = instance\n        return cls._instances[config_name]",
+        "detail": "app.llm",
+        "documentation": {}
+    },
+    {
+        "label": "define_log_level",
+        "kind": 2,
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "peekOfCode": "def define_log_level(print_level=\"INFO\", logfile_level=\"DEBUG\", name: str = None):\n    \"\"\"Adjust the log level to above level\"\"\"\n    global _print_level\n    _print_level = print_level\n    current_date = datetime.now()\n    formatted_date = current_date.strftime(\"%Y%m%d%H%M%S\")\n    log_name = (\n        f\"{name}_{formatted_date}\" if name else formatted_date\n    )  # name a log with prefix name\n    _logger.remove()",
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "_print_level",
+        "kind": 5,
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "peekOfCode": "_print_level = \"INFO\"\ndef define_log_level(print_level=\"INFO\", logfile_level=\"DEBUG\", name: str = None):\n    \"\"\"Adjust the log level to above level\"\"\"\n    global _print_level\n    _print_level = print_level\n    current_date = datetime.now()\n    formatted_date = current_date.strftime(\"%Y%m%d%H%M%S\")\n    log_name = (\n        f\"{name}_{formatted_date}\" if name else formatted_date\n    )  # name a log with prefix name",
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.logger",
+        "description": "app.logger",
+        "peekOfCode": "logger = define_log_level()\nif __name__ == \"__main__\":\n    logger.info(\"Starting application\")\n    logger.debug(\"Debug message\")\n    logger.warning(\"Warning message\")\n    logger.error(\"Error message\")\n    logger.critical(\"Critical message\")\n    try:\n        raise ValueError(\"Test error\")\n    except Exception as e:",
+        "detail": "app.logger",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "kind": 6,
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "peekOfCode": "class AgentState(str, Enum):\n    \"\"\"Agent execution states\"\"\"\n    IDLE = \"IDLE\"\n    RUNNING = \"RUNNING\"\n    FINISHED = \"FINISHED\"\n    ERROR = \"ERROR\"\nclass Function(BaseModel):\n    name: str\n    arguments: str\nclass ToolCall(BaseModel):",
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Function",
+        "kind": 6,
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "peekOfCode": "class Function(BaseModel):\n    name: str\n    arguments: str\nclass ToolCall(BaseModel):\n    \"\"\"Represents a tool/function call in a message\"\"\"\n    id: str\n    type: str = \"function\"\n    function: Function\nclass Message(BaseModel):\n    \"\"\"Represents a chat message in the conversation\"\"\"",
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ToolCall",
+        "kind": 6,
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "peekOfCode": "class ToolCall(BaseModel):\n    \"\"\"Represents a tool/function call in a message\"\"\"\n    id: str\n    type: str = \"function\"\n    function: Function\nclass Message(BaseModel):\n    \"\"\"Represents a chat message in the conversation\"\"\"\n    role: Literal[\"system\", \"user\", \"assistant\", \"tool\"] = Field(...)\n    content: Optional[str] = Field(default=None)\n    tool_calls: Optional[List[ToolCall]] = Field(default=None)",
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "peekOfCode": "class Message(BaseModel):\n    \"\"\"Represents a chat message in the conversation\"\"\"\n    role: Literal[\"system\", \"user\", \"assistant\", \"tool\"] = Field(...)\n    content: Optional[str] = Field(default=None)\n    tool_calls: Optional[List[ToolCall]] = Field(default=None)\n    name: Optional[str] = Field(default=None)\n    tool_call_id: Optional[str] = Field(default=None)\n    def __add__(self, other) -> List[\"Message\"]:\n        \"\"\"支持 Message + list 或 Message + Message 的操作\"\"\"\n        if isinstance(other, list):",
+        "detail": "app.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Memory",
+        "kind": 6,
+        "importPath": "app.schema",
+        "description": "app.schema",
+        "peekOfCode": "class Memory(BaseModel):\n    messages: List[Message] = Field(default_factory=list)\n    max_messages: int = Field(default=100)\n    def add_message(self, message: Message) -> None:\n        \"\"\"Add a message to memory\"\"\"\n        self.messages.append(message)\n        # Optional: Implement message limit\n        if len(self.messages) > self.max_messages:\n            self.messages = self.messages[-self.max_messages :]\n    def add_messages(self, messages: List[Message]) -> None:",
+        "detail": "app.schema",
+        "documentation": {}
+    }
+]
