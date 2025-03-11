@@ -1,0 +1,26 @@
+# Global LLM configuration
+[llm]
+# model = "claude-3-5-sonnet"
+# base_url = "https://api.openai.com/v1"
+
+
+model = "gemini-2.0-flash"
+api_key = "AIzaSyBMBsEFHECxQHVoy546Ne6hbFsUf4tepbs"
+base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"
+max_tokens = 4096
+temperature = 0.7
+
+# [llm] #AZURE OPENAI:
+# api_type= 'azure'
+# model = "YOUR_MODEL_NAME" #"gpt-4o-mini"
+# base_url = "{YOUR_AZURE_ENDPOINT.rstrip('/')}/openai/deployments/{AZURE_DEPOLYMENT_ID}"
+# api_key = "AZURE API KEY"
+# max_tokens = 8096
+# temperature = 0.0
+# api_version="AZURE API VERSION" #"2024-08-01-preview"
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "gemini-2.0-flash"
+api_key = "AIzaSyBMBsEFHECxQHVoy546Ne6hbFsUf4tepbs"
+base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"

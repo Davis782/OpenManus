@@ -1,3 +1,4 @@
+import logging
 import asyncio
 
 from app.agent.manus import Manus
@@ -21,6 +22,16 @@ async def main():
         except KeyboardInterrupt:
             logger.warning("Goodbye!")
             break
+
+
+async def main_loop():
+    while True:
+        try:
+            await main()
+        except Exception as e:
+            logger.error(f"An error occurred: {e}")
+            logger.error("Restarting...")
+            await asyncio.sleep(1)
 
 
 if __name__ == "__main__":
